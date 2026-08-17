@@ -47,27 +47,27 @@ Score= 6.1089   67.3459  8.2065    0.7171
 - **R²:** The model explains approximately **71.71% of the variance** in the target score.
 ##  Run Locally
 
-### 1. Clone the repository
+#### 1. Clone the repository
 
 git clone https://github.com/princeyadav639/Student-score-prediction.git
 
-### 2. Navigate to the project directory
+#### 2. Navigate to the project directory
 
 cd Student-score-prediction
 
-### 3. Create a virtual environment
+#### 3. Create a virtual environment
 
 python -m venv .venv
 
-### 4. Activate the virtual environment
+#### 4. Activate the virtual environment
 
 .venv\Scripts\activate
 
-### 5. Install the required dependencies
+#### 5. Install the required dependencies
 
 pip install -r requirements.txt
 
-### 6. Run the Streamlit application
+#### 6. Run the Streamlit application
 
 streamlit run app.py
 ##  Project Structure
