@@ -85,6 +85,7 @@ student-score-prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ##  Live Demo
 
@@ -94,6 +95,6 @@ You can try the deployed application here:
 
 The application is deployed using Streamlit Community Cloud.
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Student Score Predictor](./screenshots/app.png)
