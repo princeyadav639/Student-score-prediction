@@ -72,13 +72,19 @@ pip install -r requirements.txt
 streamlit run app.py
 ##  Project Structure
 
-student-score-prediction=>
-   ->model
-     ->student_score_model.pkl
-   ->app.py
-   ->requirements.txt
-   ->README.md
-   ->.gitignore
+```text
+student-score-prediction/
+│
+├── model/
+│   └── student_score_model.pkl
+│
+├── screenshots/
+│   └── app.png
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ##  Live Demo
 
