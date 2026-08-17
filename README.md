@@ -72,15 +72,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ##  Project Structure
 
-student-score-prediction/
-│
-├── model/
-│   └── student_score_model.pkl
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+student-score-prediction=>
+   ->model
+     ->student_score_model.pkl
+   ->app.py
+   ->requirements.txt
+   ->README.md
+   ->.gitignore
 
 ##  Live Demo
 
@@ -89,3 +87,7 @@ You can try the deployed application here:
 => https://student-score-prediction-9jdywpztu4xyq3tspdiswd.streamlit.app/
 
 The application is deployed using Streamlit Community Cloud.
+
+## 📸 Screenshot
+
+![Student Score Predictor](./screenshots/app.png)
