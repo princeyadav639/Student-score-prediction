@@ -78,6 +78,9 @@ student-score-prediction/
 ├── model/
 │   └── student_score_model.pkl
 │
+├── notebooks/
+│   └── student_performance_prediction.ipynb
+│
 ├── screenshots/
 │   └── app.png
 │
